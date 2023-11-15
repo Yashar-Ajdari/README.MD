@@ -1,2 +1,2 @@
 # README.MD
-### This read me file is a sine that you have found my github. I am an undergraduate maths student also learning python.
+### This is a sine you found my github, dont worry I won't go on a tangent and I'll keep this brief. I am an undergraduate maths student also learning python.
